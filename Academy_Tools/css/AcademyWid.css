@@ -1,0 +1,29 @@
+body{
+    
+    margin:0px !important;
+}
+
+.example{
+    text-align: center;
+    background-color: #000;
+    position:absolute;
+    width:100%; 
+    margin:0px:
+    max-height:450px;
+}
+.widRow{
+    text-align: center;
+    background-color: #ffffff;
+}
+.widCell{
+    cursor: default; 
+    text-align: center; 
+    background-color: #ffffff;
+}
+a{ 
+   target: _blank;
+} 
+img{
+    width:75%;
+    height:auto;
+}
